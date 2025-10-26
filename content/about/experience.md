@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: 
     location: Suzhou
-    date_start: ''
+    date_start: '2022-09-10'
     date_end: ''
     description: |2-
         Responsibilities include:
