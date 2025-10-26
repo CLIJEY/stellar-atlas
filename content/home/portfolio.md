@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: APP Design
+      tag: APP
+    - name: Web Vision
+      tag: Web
+    - name: Achitecture
+      tag: Achi
 
 design:
   columns: '1'
