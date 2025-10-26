@@ -30,7 +30,7 @@ content:
       tag: '*'
     - name: APP Design
       tag: APP
-    - name: Web Vision
+    - name: Web Design
       tag: Web
     - name: Achitecture
       tag: Achi
