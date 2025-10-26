@@ -41,7 +41,7 @@ experience:
     location: Toronto
     date_start: '2019'
     date_end: '2021'
-    description: My dissertation was on X
+    description: Unfinished because of the pandemic
 
 design:
   columns: '1'
