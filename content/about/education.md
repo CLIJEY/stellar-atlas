@@ -25,7 +25,7 @@ experience:
   - title: BA Digital Media Arts
     company: Xi’an Jiaotong-Liverpool University
     company_url: ''
-    company_logo: org-x
+    company_logo: 
     location: Suzhou
     date_start: '2022-09-10'
     date_end: '2026-07-12'
@@ -37,7 +37,7 @@ experience:
   - title: BEng Computer Engineering
     company: UNIVERSITY OF TORONTO
     company_url: ''
-    company_logo: org-x
+    company_logo: 
     location: Toronto
     date_start: '2019-09-01'
     date_end: '2021-06-10'
