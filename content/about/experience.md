@@ -34,7 +34,7 @@ experience:
         
         * Analysing
         * Modelling
-        * Deploying
+        * Designing
 
   - title: Team Leader
     company: UNIVERSITY OF TORONTO
