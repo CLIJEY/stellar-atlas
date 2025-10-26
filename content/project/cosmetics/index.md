@@ -1,8 +1,8 @@
 ---
-title: Cosmetics Semantic Search
+title: Water’s Future
 summary: Write about your project here...
 tags:
-  - NLP
+  - Web
 date: 2022-01-01
-external_link: http://github.com
+external_link: https://vimeo.com/1126108253?share=copy&fl=sv&fe=ci
 ---
