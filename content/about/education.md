@@ -34,7 +34,7 @@ experience:
         * Basketball team
         * DJ club
 
-  - title: Bachelor of Applied Science, Department of Computer Engineering
+  - title: BEng Computer Engineering
     company: UNIVERSITY OF TORONTO
     company_url: ''
     company_logo: org-x
