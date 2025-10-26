@@ -30,9 +30,7 @@ experience:
     date_start: '2022-09-10'
     date_end: '2026-07-12'
     description: |2-
-        * Dissertation on Y
-        * Basketball team
-        * DJ club
+        * Vice Minidter of Operations Department SAFT
 
   - title: BEng Computer Engineering
     company: UNIVERSITY OF TORONTO
