@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Suzhou
-    date_start: '2022'
-    date_end: 'Expected 2026'
+    date_start: '2022-09-10'
+    date_end: '2026-07-12'
     description: |2-
         * Dissertation on Y
         * Basketball team
@@ -39,8 +39,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Toronto
-    date_start: '2019'
-    date_end: '2021'
+    date_start: '2019-09-01'
+    date_end: '2021-06-10'
     description: Unfinished because of the pandemic
 
 design:
