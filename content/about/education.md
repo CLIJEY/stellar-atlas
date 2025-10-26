@@ -34,8 +34,8 @@ experience:
         * Basketball team
         * DJ club
 
-  - title: BEng Electronic Engineering
-    company: University X
+  - title: BA Digital Media Arts
+    company: Xi’an Jiaotong-Liverpool University
     company_url: ''
     company_logo: org-x
     location: California
