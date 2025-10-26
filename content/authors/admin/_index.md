@@ -66,7 +66,7 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jiayao Liu is a digital media and visual communication artist whose work explores the intersection of nature and technology through visual language. Integrating graphic design with motion and interactivity, her practice focuses on themes of temporal flow, emotional perception, and human–machine connection. Using tools such as TouchDesigner and Leap Motion, she merges data-driven processes with poetic visual storytelling to reflect on the boundaries between the natural and the artificial.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
