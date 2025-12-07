@@ -70,4 +70,4 @@ Jiayao Liu is a digital media and visual communication artist whose work explore
 
 
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/cv.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/cv.pdf" "newtab" >}}Download{{< /staticref >}} my CV as a PDF.
