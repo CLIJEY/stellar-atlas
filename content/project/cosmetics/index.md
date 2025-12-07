@@ -4,5 +4,5 @@ summary: This is a speculative design project addressing future resource scarcit
 tags:
   - Web
 date: 2025-09-28
-external_link: https://vimeo.com/1126108253?share=copy&fl=sv&fe=ci
+external_link: https://www.bilibili.com/video/BV1q7mABsEuZ/?vd_source=e1647dc482ceba56fe1b65e071903ded
 ---
